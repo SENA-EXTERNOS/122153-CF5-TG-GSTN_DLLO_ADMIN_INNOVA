@@ -35,6 +35,9 @@
 .color-fondo-terciario
   background-color: #ACD382 !important
 
+.color-puntoC
+  background-color: #F8FAD6 !important
+
 .color-fondo2
   background-color: $color-secundario
 
@@ -135,6 +138,7 @@
   img
     margin-bottom: 1.5rem
     margin-top: 1.5rem
+
 
 ///tarjetas hover
 
@@ -319,5 +323,18 @@
 .tarjeta--secundario
   background-color: #dce73625 !important
   
-  
-
+.slyder-g
+  align-items: center
+  justify-content: center
+  .slyder-f__btn
+    display: none !important
+  .slyder-f__main
+    align-items: left !important
+  @media (max-width: $bp-max-md)
+    transform: translate(-20px, 0px)
+    .slyder-f__btn
+      display: inline !important
+    
+.slyderPeque
+   @media (max-width: $bp-max-md)
+    transform: translate(-1px, 0px) !important
