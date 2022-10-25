@@ -45,8 +45,16 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Estructura organizacional',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Cultura organizacional',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',

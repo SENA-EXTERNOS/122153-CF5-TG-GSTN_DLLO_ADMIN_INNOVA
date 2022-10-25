@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="869" height="328" viewBox="0 0 869 328">
+  <g id="Grupo_115954" data-name="Grupo 115954" transform="translate(2211 9551)">
+    <rect id="Rectángulo_41137" data-name="Rectángulo 41137" width="869" height="328" rx="28" transform="translate(-2211 -9551)" fill="#fff"/>
+    <g id="Capa_1" data-name="Capa 1" transform="translate(-2085 -9521.742)">
+      <g id="Grupo_113217" data-name="Grupo 113217" transform="translate(1)">
+        <line id="Línea_453" data-name="Línea 453" y1="32.61" transform="translate(307.181 42.108)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_454" data-name="Línea 454" y1="24.737" transform="translate(307.181 109.762)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_455" data-name="Línea 455" y1="135.59" transform="translate(70.64 133.895)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_456" data-name="Línea 456" y1="84.273" transform="translate(228.43 133.895)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_457" data-name="Línea 457" y1="84.273" transform="translate(386.22 133.895)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_458" data-name="Línea 458" y1="135.59" transform="translate(544.017 133.895)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <g id="Grupo_113208" data-name="Grupo 113208" transform="translate(236.541)">
+          <path id="Rectángulo_40598" data-name="Rectángulo 40598" d="M374.734,0h130.5a5.136,5.136,0,0,1,5.394,4.829V43.334a5.136,5.136,0,0,1-5.394,4.829h-130.5a5.136,5.136,0,0,1-5.394-4.829V4.829A5.136,5.136,0,0,1,374.734,0Z" transform="translate(-369.34)" fill="#3d46c2"/>
+          <text id="Junta_directiva" data-name="Junta directiva" transform="translate(32.366 27.442)" fill="#fff" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Junta directiva</tspan></text>
+        </g>
+        <line id="Línea_459" data-name="Línea 459" x1="473.377" transform="translate(70.64 134.498)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Línea_460" data-name="Línea 460" x1="473.377" transform="translate(70.64 268.843)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <g id="Grupo_113209" data-name="Grupo 113209" transform="translate(236.541 69.086)">
+          <path id="Rectángulo_40621" data-name="Rectángulo 40621" d="M373.835,107.58h132.3a4.284,4.284,0,0,1,4.5,4.026v40.117a4.28,4.28,0,0,1-4.5,4.026h-132.3a4.284,4.284,0,0,1-4.5-4.026V111.606a4.28,4.28,0,0,1,4.5-4.026Z" transform="translate(-369.34 -107.58)" fill="#d1d5fc" stroke="#3e4bbf" stroke-width="2"/>
+          <text id="Presidencia" transform="translate(40.348 27.442)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Presidencia</tspan></text>
+        </g>
+        <g id="Grupo_113210" data-name="Grupo 113210" transform="translate(157.79 150.379)">
+          <path id="Rectángulo_40599" data-name="Rectángulo 40599" d="M251.205,234.17H383.5A4.284,4.284,0,0,1,388,238.2v40.117a4.28,4.28,0,0,1-4.5,4.026h-132.3a4.284,4.284,0,0,1-4.5-4.026V238.2A4.28,4.28,0,0,1,251.205,234.17Z" transform="translate(-246.71 -234.17)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <text id="Gerente_financiero" data-name="Gerente financiero" transform="translate(23.298 27.499)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gerente financiero</tspan></text>
+        </g>
+        <g id="Grupo_113211" data-name="Grupo 113211" transform="translate(0 150.379)">
+          <path id="Rectángulo_40599-2" data-name="Rectángulo 40599" d="M5.5,234.17H137.785a4.284,4.284,0,0,1,4.5,4.026v40.117a4.28,4.28,0,0,1-4.5,4.026H5.5A4.284,4.284,0,0,1,1,278.314V238.2A4.28,4.28,0,0,1,5.5,234.17Z" transform="translate(-1 -234.17)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <text id="Gerente_comercial" data-name="Gerente comercial" transform="translate(23.774 27.442)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gerente comercial</tspan></text>
+        </g>
+        <g id="Grupo_113212" data-name="Grupo 113212" transform="translate(315.58 150.379)">
+          <path id="Rectángulo_40599-3" data-name="Rectángulo 40599" d="M496.915,234.17h132.3a4.284,4.284,0,0,1,4.5,4.026v40.117a4.28,4.28,0,0,1-4.5,4.026h-132.3a4.284,4.284,0,0,1-4.5-4.026V238.2a4.28,4.28,0,0,1,4.5-4.026Z" transform="translate(-492.42 -234.17)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <g id="Grupo" transform="translate(39.012 9.389)">
+            <text id="Gerente_de" data-name="Gerente de" transform="translate(3.75 10)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gerente de</tspan></text>
+            <text id="operaciones" transform="translate(0 23.871)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">operaciones</tspan></text>
+          </g>
+        </g>
+        <g id="Grupo_113213" data-name="Grupo 113213" transform="translate(0 215.503)">
+          <path id="Rectángulo_40621-2" data-name="Rectángulo 40621" d="M5.5,335.58H137.785c2.479,0,4.5,1.438,4.5,3.217v32.09c0,1.779-2.01,3.217-4.5,3.217H5.5c-2.479,0-4.5-1.438-4.5-3.217V338.8C1,337.018,3.01,335.58,5.5,335.58Z" transform="translate(-1 -335.58)" fill="#f9f69d" stroke="#dbe636" stroke-miterlimit="10" stroke-width="1"/>
+          <text id="Equipo_de_ventas" data-name="Equipo de ventas" transform="translate(26.503 21.508)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Equipo de ventas</tspan></text>
+        </g>
+        <g id="Grupo_113214" data-name="Grupo 113214" transform="translate(157.79 215.503)">
+          <path id="Rectángulo_40621-3" data-name="Rectángulo 40621" d="M251.205,335.58H383.5c2.479,0,4.5,1.438,4.5,3.217v32.09c0,1.779-2.01,3.217-4.5,3.217h-132.3c-2.479,0-4.5-1.438-4.5-3.217V338.8C246.71,337.018,248.72,335.58,251.205,335.58Z" transform="translate(-246.71 -335.58)" fill="#f9f69d" stroke="#dbe636" stroke-miterlimit="10" stroke-width="1"/>
+          <text id="Contabilidad_y_finanzas" data-name="Contabilidad y finanzas" transform="translate(10.679 21.508)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Contabilidad y finanzas</tspan></text>
+        </g>
+        <g id="Grupo_113215" data-name="Grupo 113215" transform="translate(315.58 215.503)">
+          <path id="Rectángulo_40621-4" data-name="Rectángulo 40621" d="M496.915,335.58h132.3c2.479,0,4.5,1.438,4.5,3.217v32.09c0,1.779-2.01,3.217-4.5,3.217h-132.3c-2.479,0-4.5-1.438-4.5-3.217V338.8c0-1.779,2.01-3.217,4.5-3.217Z" transform="translate(-492.42 -335.58)" fill="#f9f69d" stroke="#dbe636" stroke-miterlimit="10" stroke-width="1"/>
+          <text id="Operarios" transform="translate(45.576 21.341)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Operarios</tspan></text>
+        </g>
+        <g id="Grupo_113216" data-name="Grupo 113216" transform="translate(473.371 150.379)">
+          <path id="Rectángulo_40599-4" data-name="Rectángulo 40599" d="M742.625,234.17h132.3a4.284,4.284,0,0,1,4.5,4.026v40.117a4.28,4.28,0,0,1-4.5,4.026h-132.3a4.284,4.284,0,0,1-4.5-4.026V238.2A4.28,4.28,0,0,1,742.625,234.17Z" transform="translate(-738.13 -234.17)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <g id="Grupo-2" data-name="Grupo" transform="translate(22.611 10.506)">
+            <text id="Gerente_de-2" data-name="Gerente de" transform="translate(20.01 10)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gerente de</tspan></text>
+            <text id="recursos_humanos" data-name="recursos humanos" transform="translate(0 23.871)" fill="#14263e" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">recursos humanos</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
