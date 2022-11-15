@@ -26,37 +26,37 @@
     p.mb-4 Ahora, teniendo en cuenta las valoraciones de Bernal Torres y Sierra Arango (2017), se considera que existen determinados factores que afectan a la estructura organizacional; a continuación, se enuncian algunos de estos.
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar15.svg' alt='dibujo relacionado')
         p.text-center Las estrategias que se definan en la planeación para el logro de los objetivos (la estructura debe adecuarse a la estrategia).
 
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar16.svg' alt='dibujo relacionado')    
         p.text-center El tamaño de la propia organización, porque, a diferentes tamaños, la empresa puede requerir distintas estructuras.  
 
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar17.svg' alt='dibujo relacionado')
         p.text-center La disponibilidad y el uso de las TIC (el grado de automatización y virtualización de los procesos), que afectan la estructura.
 
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar18.svg' alt='dibujo relacionado')
         p.text-center Los cambios del entorno industrial o sectorial, en el entorno nacional o internacional.
 
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar19.svg' alt='dibujo relacionado')
         p.text-center Los mercados que atiende la organización y el tipo de actividades que realiza.  
 
-      .tarjeta.color-primario.p-4(style='height:350px')
+      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar20.svg' alt='dibujo relacionado')
@@ -71,9 +71,9 @@
         .cajon.color-primario.color-fondo.p-4
             p.mb-0 Bernal Torres y Sierra Arango (2017), nos dicen que, a partir de la década de los 80, se inició el proceso de cambio en los enfoques directivos, los cuales se encaminaron a proponer nuevas formas de organizar las empresas para responder oportunamente a los retos de la globalización, de la competencia, de la incertidumbre y del cambio en el mundo de los negocios.
     
-    p.mb-4 Dentro de estos nuevos y modernos modelos de estructuras organizacionales, podemos mencionar las siguientes:
+    p.mb-4 Dentro de estos <strong>nuevos y modernos</strong> modelos de estructuras organizacionales, podemos mencionar las siguientes:
 
-    .tarjeta.tarjeta--secundario.p-4.mb-4
+    .tarjeta.tarjeta--secundario.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
@@ -84,9 +84,8 @@
 
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
-            h3.mb-4 Estructuras organizacionales planas
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='Diagrama')
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
@@ -96,9 +95,8 @@
 
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
-            h3.mb-4 Estructuras organizacionales horizontales
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/placeholder6.svg', alt='Diagrama')
 
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
@@ -108,9 +106,8 @@
         
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
-            h3.mb-4 Estructuras por redes o modulares
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/placeholder7.svg', alt='Diagrama')
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
@@ -132,9 +129,8 @@
                 | Por su grado de empoderamiento y flexibilidad, se adaptan con más facilidad a los cambios del entorno.
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
-            h3.mb-4 Estructuras con enfoque virtual
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/placeholder8.svg', alt='Imagen ilustrativa')
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-7.mb-4.mb-md-0
@@ -143,7 +139,9 @@
 
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/placeholder9.svg', alt='imagen ilustrativa')
+    
+    p.mb-4 Hay que considerar que existen diferentes estructuras internacionales, y las empresas decidirán aplicarlas según el nivel de internacionalización que estén atravesando.
 
     .row.justify-content-center.mb-4
       .col-md-7
@@ -160,10 +158,6 @@
             .col-md-12.mb-4.mb-md-0
               p En este tipo de estructura, todas las filiales extranjeras dependen directamente de una dependencia internacional, y está separada de las demás operaciones de la empresa; se caracteriza por facilitar la comunicación entre la matriz y las filiales, el conocimiento de los productos recae sobre las demás divisiones de la empresa, mientras que el conocimiento y la experiencia sobre el mercado y la estrategia internacional, recae sobre la dependencia y división internacional.
 
-          .row(titulo="Trabajo para adultos mayores sin pensión")
-            .col-md-12.mb-4.mb-md-0
-              p Ley 2040 del 2020, otorga beneficios tributarios a empleadores, deducción en el impuesto sobre la renta de 120 % del valor de salarios y prestaciones sociales, al vincular, al menos durante un año, a un adulto mayor que no reciba pensión por vejez, familiar o de sobrevivencia.
-          
           .row(titulo="División global de producto")
             .col-md-12.mb-4.mb-md-0
               p Se presenta cuando los negocios se extienden a nivel mundial. El crecimiento de los negocios internacionales y la diversidad de productos, hace recomendable que cada línea de productos se encargue también de sus operaciones internacionales, sin tener que depender de una división internacional global.

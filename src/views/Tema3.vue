@@ -14,6 +14,8 @@
       .col-md-7      
         p Con respecto a la identificación de las necesidades de talento humano en la organización, podemos decir que es el proceso mediante el cual, el área encargada de la Gestión del Talento Humano realiza la respectiva revisión, vigilancia e identificación de nuevas vacantes que se puedan dar, sea porque se crea un nuevo cargo o porque quedó una vacante disponible, a raíz de la salida de un trabajador.
     
+    p.mb-0 Es así como la realización de todo el proceso de contratación, conlleva una serie de pasos que se muestran a continuación: 
+
     .row.justify-content-around.align-items-center
       .col-lg-9
         PasosA.color-acento-contenido.mb-5(tipo="n")
@@ -78,7 +80,7 @@
       .col-md-7      
         p.mb-4 Para poder entender correctamente el proceso de analizar las necesidades de cargos, es preciso desglosar el concepto de cargo y sus respectivas características
         .cajon.color-primario.color-fondo.p-4.mb-4
-            p.mb-0 El cargo se define como un conjunto de actividades estructuradas y organizadas que debe realizar una persona en su calidad de trabajador y dicho cargo se debe ubicar en un lugar dentro de la estructura organizacional de la empresa. Según Chiavetano (2009), “El cargo consta de un conjunto de perfiles, responsabilidades, conocimientos y destrezas que lo distinguen de los demás; adicionalmente, en su posición jerárquica, se debe establecer su subordinación y sus subordinados”. 
+            p.mb-0 <strong>El cargo</strong> se define como un conjunto de actividades estructuradas y organizadas que debe realizar una persona en su calidad de trabajador y dicho cargo se debe ubicar en un lugar dentro de la estructura organizacional de la empresa. Según Chiavetano (2009), “El cargo consta de un conjunto de perfiles, responsabilidades, conocimientos y destrezas que lo distinguen de los demás; adicionalmente, en su posición jerárquica, se debe establecer su subordinación y sus subordinados”. 
     
     .row.justify-content-center.mb-4
       .col-md-7      
@@ -97,7 +99,7 @@
     p.mb-4 Para lograr la identificación de las necesidades de talento humano en las organizaciones, el área encargada puede aplicar los siguientes instrumentos.
 
     .tarjeta--container.row.mb-4
-      .col-md.tarjeta.color-primario.p-5
+      .col-md.tarjeta.color-fondo-terciario.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -106,7 +108,7 @@
         h2.text-center(style="color: black") Entrevista
         p(style="color: black") Es un método de recolección de información de manera directa. Existen dos tipos de entrevista, estructurada y no estructurada, y para efectos de identificación de necesidades de personal, se puede aplicar la entrevista no estructurada.
       
-      .col-md.tarjeta.color-secundario.p-5
+      .col-md.tarjeta.color-secundario.p-5(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -115,7 +117,7 @@
         h2.text-center Observación
         p Consiste en observar a los empleados en su entorno natural, es decir, en el desarrollo de sus funciones diarias, identificar que la cantidad de funciones que ejecuta o debe desempeñar, son las apropiadas y tener en cuenta el tiempo destinado para ellas, o si, por el contrario, no está alcanzando a cumplir con las tareas impuestas. 
       
-      .col-md.tarjeta.color-primario.p-5
+      .col-md.tarjeta.color-fondo-terciario.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -147,7 +149,7 @@
       .titulo-sexto.color-acento-contenido
         p
           b Figura 1.
-          p Ejemplo de actividades del subcomité de finanzas
+          p Características en la descripción de cargos
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
@@ -160,7 +162,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-7      
-        p Luego de la descripción del cargo se muestra el perfil, el cual debe definir las características, elementos y responsabilidades de debe tener un puesto de trabajo; de igual forma, describe las aptitudes profesionales como conocimientos, experiencias, cualidades y capacidades que debe poseer la persona que lo ocupe. Los perfiles se deben construir siguiendo un punto de vista de gestión por objetivos y por competencias laborales.
+        p Luego de la descripción del cargo se muestra el perfil, el cual debe definir las características, elementos y responsabilidades debe tener un puesto de trabajo; de igual forma, describe las aptitudes profesionales como conocimientos, experiencias, cualidades y capacidades que debe poseer la persona que lo ocupe. Los perfiles se deben construir siguiendo un punto de vista de gestión por objetivos y por competencias laborales.
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img14.png', alt='imagen relacionada')
@@ -168,31 +170,31 @@
     p.mb-4 Todo perfil laboral debe contener las siguientes características:
 
     SlyderF.row.mb-5.slyder-g(columnas="col-lg-6 col-xl-4")
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar24.svg', alt='Texto que describa la imagen')
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+              img(src='@/assets/curso/temas/tarjetas/avatar24.svg', alt='imagen relacionada')
         
         h5.text-center.mb-5(style=" margin-top: -15px;") Descripción del cargo
         p.text-center.mb-4 Nombre del cargo, dependencia a la cual pertenece. 
         
 
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar25.svg', alt='Texto que describa la imagen')
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+              img(src='@/assets/curso/temas/tarjetas/avatar25.svg', alt='imagen ilustrativa')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Jerarquía del cargo
         p.text-center.mb-4 Ubicación dentro de la organización, identificando a quién(es) deberá reportar sus resultados y quién(es) deberá(n) reportarle a él.
        
 
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar26.svg', alt='Texto que describa la imagen')
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+              img(src='@/assets/curso/temas/tarjetas/avatar26.svg', alt='imagen ilustrativa')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Requisitos
         p.text-center.mb-4 Descripción de los requisitos profesionales (conocimientos) nivel de estudios, experiencia, capacidades físicas e intelectuales.
@@ -230,10 +232,9 @@
             ImagenInfografica.color-acento-botones.mb-5
               template(v-slot:imagen)
                 figure
-                  img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img15.svg', alt='diagrama tipo rompecabezas')
+                  img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img15.svg', alt='diagrama')
 
               .tarjeta.color-puntoC.p-4(x="98%" y="21%" numero="+" style='border-radius: 10px')
-                h4 Requisitos intelectuales
                 ol.lista-ol--cuadro
                   li 
                     .lista-ol--cuadro__vineta
@@ -257,7 +258,6 @@
                     | Aptitudes exigidas.
 
               .tarjeta.color-puntoC.p-4(x="98%" y="67%" numero="+" style='border-radius: 10px')
-                h4 Responsabilidades adquiridas
                 ol.lista-ol--cuadro
                   li 
                     .lista-ol--cuadro__vineta
@@ -281,7 +281,6 @@
                     | Información confidencial.
                 
               .tarjeta.color-puntoC.p-4(x="98%" y="44%" numero="+" style='border-radius: 10px')
-                h4 Requisitos físicos
                 ol.lista-ol--cuadro
                   li 
                     .lista-ol--cuadro__vineta
@@ -301,7 +300,6 @@
                     | Complexión física solicitada.
                   
               .tarjeta.color-puntoC.p-4(x="98%" y="91%" numero="+" style='border-radius: 10px')
-                h4 Condiciones de trabajo
                 ol.lista-ol--cuadro
                   li 
                     .lista-ol--cuadro__vineta
@@ -323,7 +321,7 @@
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img16.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 <strong>¿Sabía que uno de los principales elementos de todo cargo se basa en las funciones? </strong> Ellas representan un conjunto de tareas, actividades y responsabilidades necesarias para dicho cargo y que debe desempeñar la persona que lo ocupe. Estas funciones se describen teniendo en cuenta el nivel jerárquico del cargo, la relación con otros cargos y la dependencia donde se ubica.
+        p.mb-4 ¿Sabía que uno de los principales elementos de todo cargo se basa en las funciones?  Ellas representan un conjunto de tareas, actividades y responsabilidades necesarias para dicho cargo y que debe desempeñar la persona que lo ocupe. Estas funciones se describen teniendo en cuenta el nivel jerárquico del cargo, la relación con otros cargos y la dependencia donde se ubica.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 La adecuada descripción de funciones de un cargo, permite definir lo que la empresa espera recibir del trabajador, delimitando claramente las responsabilidades y competencias; además, las funciones intervienen directamente en el establecimiento de las variables a tener en cuenta, al momento de aplicar la evaluación del desempeño.
     
@@ -332,8 +330,8 @@
     SlyderF.row.mb-5.slyder-g.slyderPeque(style="transform: translate(-100px, 0px)" columnas="col-lg-6 col-xl-4")
       .tarjeta.carrusel2.p-4(style="background-color: #ACD382 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none;")
               img(src='@/assets/curso/temas/tarjetas/avatar27.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-5(style=" margin-top: -15px;") Datos de la base de la función
@@ -342,12 +340,14 @@
 
       .tarjeta.carrusel2.p-4
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none;")
               img(src='@/assets/curso/temas/tarjetas/avatar28.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Formulación  de la misión
         p.text-center.mb-4 La misión debe describir la finalidad de la función, de modo que cualquier persona pueda comprender cuáles son, concretamente, los componentes esenciales. 
+    
+    p.mb-4 Para obtenerla, se deberán redactar teniendo en cuenta los siguientes elementos:
 
     .row.justify-content-center.mb-4
       .col-md-8.col-lg-8
@@ -367,7 +367,7 @@
                 .col-md-12.p-4.color-fondo
                   p Describir quiénes serán los que recibirán los resultados de la función. 
                   p <strong>Ejemplo:</strong> jefes, compañeros o clientes externos.
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Calidad del servicio")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Calidad del<br>servicio")
               .row
                 .col-md-12.p-4.color-fondo
                   p Se debe determinar cómo se evaluará la función.  
@@ -395,7 +395,9 @@
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    p.mb-5 Una vez finalizada la etapa de reclutamiento, se procede a continuar con el proceso de seleccionar la mejor opción, es decir, los perfiles que cumplan con las condiciones solicitadas para ocupar el cargo. Esta etapa opera como un filtro, se ejecuta por medio de actividades que permiten la selección de los candidatos más adecuados y que han logrado cumplir inicialmente con los requisitos básicos y que, a medida que el proceso avanza, han demostrado ser la mejor opción para la empresa teniendo en cuenta su formación, experiencia, habilidades y competencias.       
+    p.mb-4 Una vez finalizada la etapa de reclutamiento, se procede a continuar con el proceso de seleccionar la mejor opción, es decir, los perfiles que cumplan con las condiciones solicitadas para ocupar el cargo. Esta etapa opera como un filtro, se ejecuta por medio de actividades que permiten la selección de los candidatos más adecuados y que han logrado cumplir inicialmente con los requisitos básicos y que, a medida que el proceso avanza, han demostrado ser la mejor opción para la empresa teniendo en cuenta su formación, experiencia, habilidades y competencias.       
+
+    p.mb-4 Para ejecutar objetivamente el proceso de selección, este se debe realizar por medio de la aplicación de diferentes etapas, que permitirán el filtro correspondiente.
 
     .mx-auto.col-md-10.mb-5
       .tarjeta
@@ -407,23 +409,18 @@
                   img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img18.svg', alt='diagrama tipo rompecabezas')
 
               .tarjeta.color-puntoC.p-4(x="9%" y="93%" numero="+" style='border-radius: 10px; width: 400px')
-                h4.text-center Verificación de requisitos mínimos
                 p.text-center Se realiza mediante la inspección de la hoja de vida laboral (currículo) del candidato, revisando si cumple con los requisitos académicos y de experiencia.
               
               .tarjeta.color-puntoC.p-4(x="29%" y="93%" numero="+" style='border-radius: 10px; width: 400px')
-                h4.text-center Aplicación de examen de conocimiento
                 p.text-center Algunas empresas deciden aplicar exámenes escritos, donde puedan medir el conocimiento sobre temas específicos inherentes al cargo; de igual forma, pueden medir aspectos transversales como: trabajo en equipo, toma de decisiones, integridad moral y ética, responsabilidad social, solución de conflictos, entre otros. Las empresas fijan un porcentaje de aprobación, donde solo podrán continuar con el proceso, aquellos aspirantes que obtengan determinado puntaje.
 
               .tarjeta.color-puntoC.p-4(x="50%" y="93%" numero="+" style='border-radius: 10px; width: 400px')
-                h4.text-center Entrevista
                 p.text-center Representa una de las herramientas más importantes dentro del proceso de selección, porque permite la interacción directa con el aspirante. En ella se puede analizar al candidato a través de su expresión verbal y su lenguaje corporal; se intentará descubrir de forma directa, sus habilidades, conocimientos y destrezas.
                 
               .tarjeta.color-puntoC.p-4(x="71%" y="93%" numero="+" style='border-radius: 10px; width: 400px')
-                h4.text-center Verificación de antecedentes
                 p.text-center Para algunas empresas, especialmente para las que corresponden al sector público, este elemento es de gran importancia; con la ayuda de esta etapa, se verifica si el candidato presenta antecedentes penales, fiscales, de mala conducta pública, delitos sexuales o medidas correctivas. 
                   
               .tarjeta.color-puntoC.p-4(x="92%" y="93%" numero="+" style='border-radius: 10px; width: 400px')
-                h4.text-center Exámenes ocupacionales
                 p.text-center Teniendo en cuenta <strong>la resolución 2346 de 2007 del Ministerio de Salud y Protección Social</strong>, todas las empresas privadas o públicas, están en la obligación de solicitar, a sus empleados, los exámenes ocupacionales con el fin de determinar las condiciones de salud física y mental y obtener, por parte del médico ocupacional, un certificado de aptitud donde se indica si el aspirante es apto o no, para desempeñar las funciones que requiere la empresa.
 
     p.mb-4 Para ampliar la información, en la Figura 2 encontrará una representación gráfica de los procesos de reclutamiento y selección.
@@ -446,31 +443,31 @@
     p.mb-4 Al finalizar la etapa de selección del personal y habiendo elegido la mejor opción (aspirantes), se iniciará la etapa o fase de contratación e incorporación del nuevo trabajador a la organización. El primer paso, será el de realizar el trámite formal y legal mediante elaboración de su contrato laboral; existen diferentes tipos de contrato laboral y, a continuación, se relacionan los contratos laborales legales en Colombia:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10
+      .col-lg-11
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img19.png')})`}"
           )
-          .bloque-texto-g__texto.p-4 
+          .bloque-texto-g__texto.p-4(style="width: 66%")
             ol.lista-ol
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato a Término Fijo <strong> (Art. 46 del C.S.T.)</strong>
+                | Contrato a Término Fijo &nbsp <strong> (Art. 46 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato a Término Indefinido <strong> (Art. 47 del C.S.T.)</strong>
+                | Contrato a Término Indefinido &nbsp <strong> (Art. 47 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato de Obra o Labor <strong>(Art. 45 del C.S.T.)</strong>
+                | Contrato de Obra o Labor &nbsp<strong>(Art. 45 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato de Aprendizaje <strong>(Art. 30 de la Ley 789 de 2002)</strong>
+                | Contrato de Aprendizaje &nbsp <strong>(Art. 30 de la Ley 789 de 2002)</strong>
+              li  
+                span.fas.fa-check(style='color: #f85316')
+                | Contrato Temporal, Ocasional o Accidental &nbsp <strong>(Art. 6 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato Temporal, Ocasional o Accidental <strong>(Art. 6 del C.S.T.)</strong>
-              li 
-                span.fas.fa-check(style='color: #f85316')
-                | Contrato Civil por Prestación de Servicios <strong> (Art. 1495 del Código Civil),</strong> El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
+                | Contrato Civil por Prestación de Servicios &nbsp <strong> (Art. 1495 del Código Civil),</strong> El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
 
     p.mb-4 Le corresponde a la organización definir la clase de contrato a ejecutar; el objetivo es que tanto el futuro empleado, como la organización, estén de acuerdo con el contrato a firmar; dicho contrato debe garantizar el cumplimiento de las obligaciones laborales legalmente establecidas, dependiendo de la clase de labor a realizar.
 

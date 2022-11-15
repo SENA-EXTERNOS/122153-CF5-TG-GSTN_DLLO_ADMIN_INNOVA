@@ -65,10 +65,10 @@
     p.mb-4 Además, para desarrollar un proceso de gestión del talento humano estructurado y organizado, es necesario considerar diversas fases o procesos a través de los cuales se establecen las acciones correspondientes. A continuación, se presentan algunas de estas:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none;")
               img(src='@/assets/curso/temas/tarjetas/avatar1.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -77,10 +77,10 @@
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Diseño de cargos.
 
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar2.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -89,10 +89,10 @@
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Contratación de candidatos seleccionados.
 
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -100,10 +100,11 @@
         br
         h5.text-center.mb-4(style=" margin-top: 10px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Administración de cargos y salarios.
-      .tarjeta.carrusel2.p-4
+      
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -112,10 +113,10 @@
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Comunicación y desarrollo personal.
       
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar5.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -124,10 +125,10 @@
         h5.text-center.mb-4(style=" margin-top: 10px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Capacitación y planes de mejoramiento
       
-      .tarjeta.carrusel2.p-4
+      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+          .bloque-texto-f2__avatar
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar6.svg', alt='Texto que describa la imagen')
         
         h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
@@ -185,32 +186,33 @@
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar14.svg' alt='dibujo relacionado')
         p.text-center Se asegura que los empleados se encuentren cómodos. 
     
-    p.mb-4 Por otra parte, la gestión del talento humano también mantiene una serie de objetivos.Estos objetivos son:
+    p Por otra parte, la gestión del talento humano también mantiene una serie de objetivos.
+    p.mb-4 Estos objetivos son:
 
     .row.justify-content-center.mb-4
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img3.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
         TabsA.color-acento-contenido.mb-4
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Atraer empleados")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Atraer<br>empleados")
               .row
                 .col-md-8.p-4.color-fondo
                   p Permite captar candidatos calificados o que puedan adquirir las competencias necesarias, según el cargo a desempeñar y los objetivos empresariales.
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Retener y motivar empleados")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Retener y motivar <br>empleados")
               .row
                 .col-md-12.p-4.color-fondo
                   p Brinda colaboradores calificados, satisfechos y fieles a la empresa, identificados y comprometidos con la posibilidad de crecer profesionalmente.   
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Evaluar el desempeño de los empleados")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Evaluar el<br>desempeño de <br>los empleados")
               .row
                 .col-md-12.p-4.color-fondo
                   p Permite tomar medidas para identificar su contribución e importancia para la empresa.
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Mejorar la productividad")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Mejorar la<br> productividad")
               .row
                 .col-md-12.p-4.color-fondo
                   p Con entrenamiento y motivación, se mejora la competitividad y la empresa puede alcanzar los objetivos planteados.
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Generar buen clima laboral")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Generar buen<br>clima laboral")
               .row
                 .col-md-12.p-4.color-fondo
                   p Se establecen políticas que generen buena conducta entre los empleados, se preocupan por su bienestar, mejoran el lugar y horarios de trabajo, reconocen y valoran los logros, fomentan actividades recreativas fuera del trabajo, entre otros.

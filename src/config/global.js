@@ -244,6 +244,28 @@ export default {
   referencias: [
     {
       referencia:
+        'Bernal Torres, C. A. y Sierra Arango, H. D. (2017). <em>Proceso Administrativo</em>. Editorial Pearson.',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=6926&pg=196',
+    },
+    {
+      referencia:
+        'Blandez Ricalde, M. D. G. y Blandez Ricalde, M. (2014). <em>Proceso administrativo.</em> Editorial Digital UNID. ',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/41174?page=61 ',
+    },
+    {
+      referencia:
+        'Boada, R. (2015). <em> Identificando el talento humano.</em> McGraw-Hill Interamericana. ',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7452 ',
+    },
+    {
+      referencia:
+        'Bouzas Ortiz, J. A. y Reyes Gaytán, G. (2019). <em>Gestión del talento humano. </em>IURE Editores. ',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/130372?page=8',
+    },
+    {
+      referencia:
         'Chivaneto, A. (2009). <em>Gestion del talento humano</em> (3ª. Ed.)  ',
       link:
         'http://104.207.147.154:8080/bitstream/54000/1143/1/Chiavenato-Talento%20humano%203ra%20ed.pdf   ',
