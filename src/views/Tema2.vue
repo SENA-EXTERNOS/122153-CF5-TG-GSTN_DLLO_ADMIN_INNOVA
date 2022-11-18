@@ -143,6 +143,8 @@
     
     p.mb-4 Hay que considerar que existen diferentes estructuras internacionales, y las empresas decidirán aplicarlas según el nivel de internacionalización que estén atravesando.
 
+    p.mb-4 Estas estructuras son las siguientes: 
+    
     .row.justify-content-center.mb-4
       .col-md-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
