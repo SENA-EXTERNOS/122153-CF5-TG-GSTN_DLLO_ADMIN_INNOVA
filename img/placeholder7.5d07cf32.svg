@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="869" height="328" viewBox="0 0 869 328">
+  <g id="Grupo_115956" data-name="Grupo 115956" transform="translate(2214 7365)">
+    <rect id="Rectángulo_41774" data-name="Rectángulo 41774" width="869" height="328" rx="28" transform="translate(-2214 -7365)" fill="#fff"/>
+    <g id="Capa_1" data-name="Capa 1" transform="translate(-2130.5 -7309)">
+      <g id="Grupo_113250" data-name="Grupo 113250" transform="translate(1 1)">
+        <line id="Línea_472" data-name="Línea 472" y1="35.08" transform="translate(342.273 45.297)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <g id="Grupo_113244" data-name="Grupo 113244" transform="translate(256.605 118.904)">
+          <line id="Línea_473" data-name="Línea 473" y1="66.94" x2="44.945" transform="translate(0 1.174)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+          <line id="Línea_474" data-name="Línea 474" x1="43.743" y1="68.08" transform="translate(126.351)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <g id="Grupo_113245" data-name="Grupo 113245" transform="translate(259.375)">
+          <path id="Rectángulo_40598" data-name="Rectángulo 40598" d="M382.788,1H535.929c3.5,0,6.328,2.328,6.328,5.195V47.616c0,2.867-2.832,5.195-6.328,5.195H382.788c-3.5,0-6.328-2.328-6.328-5.195V6.195c0-2.867,2.832-5.195,6.328-5.195Z" transform="translate(-376.46 -1)" fill="#d1d5fc" stroke="#3e4bbf" stroke-width="2"/>
+          <g id="Grupo" transform="translate(21.802 11.302)">
+            <text id="Compañía_proveedora" data-name="Compañía proveedora" transform="translate(0 11)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compañía proveedora</tspan></text>
+            <text id="de_insumo_A" data-name="de insumo A" transform="translate(26.576 25.922)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de insumo A</tspan></text>
+          </g>
+        </g>
+        <line id="Línea_475" data-name="Línea 475" x1="367.074" transform="translate(158.736 100.224)" fill="none" stroke="#3e4bbf" stroke-miterlimit="10" stroke-width="2"/>
+        <g id="Grupo_113246" data-name="Grupo 113246" transform="translate(259.375 74.318)">
+          <path id="Rectángulo_40621" data-name="Rectángulo 40621" d="M381.731,108.58H536.979c2.915,0,5.271,1.941,5.271,4.331v43.155c0,2.39-2.363,4.331-5.271,4.331H381.731c-2.915,0-5.271-1.941-5.271-4.331V112.911c0-2.39,2.363-4.331,5.271-4.331Z" transform="translate(-376.46 -108.58)" fill="#3d46c2"/>
+          <g id="Grupo-2" data-name="Grupo" transform="translate(31.667 9.188)">
+            <text id="Dirección_general" data-name="Dirección general" transform="translate(0 12)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Dirección general</tspan></text>
+            <text id="de_la_empresa" data-name="de la empresa" transform="translate(10.19 27.751)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">de la empresa</tspan></text>
+          </g>
+        </g>
+        <path id="Rectángulo_40599" data-name="Rectángulo 40599" d="M173.031,268.37H328.279c2.915,0,5.271,1.941,5.271,4.331v43.155c0,2.39-2.363,4.331-5.271,4.331H173.031c-2.915,0-5.271-1.941-5.271-4.331V272.7C167.76,270.311,170.123,268.37,173.031,268.37Z" transform="translate(-52.559 -83.666)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+        <g id="Grupo-3" data-name="Grupo" transform="translate(120.472 194.804)">
+          <text id="Compañía_comercializadora" data-name="Compañía comercializadora" transform="translate(0 11)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compañía comercializadora</tspan></text>
+          <text id="de_productos" data-name="de productos" transform="translate(41.166 25.922)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de productos</tspan></text>
+        </g>
+        <g id="Grupo_113247" data-name="Grupo 113247" transform="translate(0 74.318)">
+          <path id="Rectángulo_40599-2" data-name="Rectángulo 40599" d="M6.271,108.58H161.526c2.915,0,5.271,1.941,5.271,4.331v43.155c0,2.39-2.363,4.331-5.271,4.331H6.271C3.356,160.4,1,158.457,1,156.067V112.911c0-2.39,2.363-4.331,5.271-4.331Z" transform="translate(-1 -108.58)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <g id="Grupo-4" data-name="Grupo" transform="translate(21.802 11.302)">
+            <text id="Compañía_proveedora-2" data-name="Compañía proveedora" transform="translate(0 11)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compañía proveedora</tspan></text>
+            <text id="de_insumo_B" data-name="de insumo B" transform="translate(26.755 25.922)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de insumo B</tspan></text>
+          </g>
+        </g>
+        <g id="Grupo_113248" data-name="Grupo 113248" transform="translate(404.827 184.704)">
+          <path id="Rectángulo_40599-3" data-name="Rectángulo 40599" d="M592.281,268.37H747.529c2.915,0,5.271,1.941,5.271,4.331v43.155c0,2.39-2.363,4.331-5.271,4.331H592.281c-2.915,0-5.271-1.941-5.271-4.331V272.7C587.01,270.311,589.373,268.37,592.281,268.37Z" transform="translate(-587.01 -268.37)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <text id="Compañía_logística" data-name="Compañía logística" transform="translate(24.773 28.533)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compañía logística</tspan></text>
+        </g>
+        <g id="Grupo_113249" data-name="Grupo 113249" transform="translate(518.902 74.318)">
+          <path id="Rectángulo_40599-4" data-name="Rectángulo 40599" d="M757.411,108.58H912.659c2.915,0,5.271,1.941,5.271,4.331v43.155c0,2.39-2.363,4.331-5.271,4.331H757.411c-2.915,0-5.271-1.941-5.271-4.331V112.911c0-2.39,2.363-4.331,5.271-4.331Z" transform="translate(-752.14 -108.58)" fill="#bae887" stroke="#77b43a" stroke-width="2"/>
+          <text id="Compañía_ensambladora" data-name="Compañía ensambladora" transform="translate(13.395 28.568)" fill="#14263e" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Compañía ensambladora</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
