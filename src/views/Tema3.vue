@@ -78,7 +78,7 @@
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada')
       .col-md-7      
-        p.mb-4 Para poder entender correctamente el proceso de analizar las necesidades de cargos, es preciso desglosar el concepto de cargo y sus respectivas características
+        p.mb-4 Para poder entender correctamente el proceso de analizar las necesidades de cargos, es preciso desglosar el concepto de cargo y sus respectivas características.
         .cajon.color-primario.color-fondo.p-4.mb-4
             p.mb-0 <strong>El cargo</strong> se define como un conjunto de actividades estructuradas y organizadas que debe realizar una persona en su calidad de trabajador y dicho cargo se debe ubicar en un lugar dentro de la estructura organizacional de la empresa. Según Chiavetano (2009), “El cargo consta de un conjunto de perfiles, responsabilidades, conocimientos y destrezas que lo distinguen de los demás; adicionalmente, en su posición jerárquica, se debe establecer su subordinación y sus subordinados”. 
     
@@ -147,9 +147,9 @@
 
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 1.
-          p Características en la descripción de cargos
+        h5 Figura 1
+        br
+        span.fst-italic Características en la descripción de cargos
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
@@ -162,7 +162,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-7      
-        p Luego de la descripción del cargo se muestra el perfil, el cual debe definir las características, elementos y responsabilidades debe tener un puesto de trabajo; de igual forma, describe las aptitudes profesionales como conocimientos, experiencias, cualidades y capacidades que debe poseer la persona que lo ocupe. Los perfiles se deben construir siguiendo un punto de vista de gestión por objetivos y por competencias laborales.
+        p Luego de la descripción del cargo se muestra el perfil, el cual debe definir las características, elementos y responsabilidades que debe tener un puesto de trabajo; de igual forma, describe las aptitudes profesionales como conocimientos, experiencias, cualidades y capacidades que debe poseer la persona que lo ocupe. Los perfiles se deben construir, siguiendo un punto de vista de gestión, por objetivos y por competencias laborales.
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img14.png', alt='imagen relacionada')
@@ -325,7 +325,7 @@
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-0 La adecuada descripción de funciones de un cargo, permite definir lo que la empresa espera recibir del trabajador, delimitando claramente las responsabilidades y competencias; además, las funciones intervienen directamente en el establecimiento de las variables a tener en cuenta, al momento de aplicar la evaluación del desempeño.
     
-    p.mb-4Las funciones se deben estructurar de acuerdo con un modelo sistemático: 
+    p.mb-4Las Las funciones se deben estructurar, de acuerdo con un modelo sistemático:
 
     SlyderF.row.mb-5.slyder-g.slyderPeque(style="transform: translate(-100px, 0px)" columnas="col-lg-6 col-xl-4")
       .tarjeta.carrusel2.p-4(style="background-color: #ACD382 !important")
@@ -427,12 +427,12 @@
   
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 2.
-          p  Proceso de reclutamiento y selección
+        h5 Figura 2
+        br
+        span.fst-italic Proceso de reclutamiento y selección
 
       figure.mb-4
-          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama')  
+          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/1.svg', alt='diagrama')  
       
       figcaption.mb-4 Nota. Tomado y adaptado de Chiavenato (2020).
 
@@ -452,22 +452,22 @@
             ol.lista-ol
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato a Término Fijo &nbsp <strong> (Art. 46 del C.S.T.)</strong>
+                p.mb-0 Contrato a Término Fijo &nbsp <strong> (Art. 46 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato a Término Indefinido &nbsp <strong> (Art. 47 del C.S.T.)</strong>
+                p.mb-0 Contrato a Término Indefinido &nbsp <strong> (Art. 47 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato de Obra o Labor &nbsp<strong>(Art. 45 del C.S.T.)</strong>
+                p.mb-0 Contrato de Obra o Labor &nbsp<strong>(Art. 45 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato de Aprendizaje &nbsp <strong>(Art. 30 de la Ley 789 de 2002)</strong>
+                p.mb-0 Contrato de Aprendizaje &nbsp <strong>(Art. 30 de la Ley 789 de 2002)</strong>
               li  
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato Temporal, Ocasional o Accidental &nbsp <strong>(Art. 6 del C.S.T.)</strong>
+                p.mb-0 Contrato Temporal, Ocasional o Accidental &nbsp <strong>(Art. 6 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Contrato Civil por Prestación de Servicios &nbsp <strong> (Art. 1495 del Código Civil),</strong> El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
+                p.mb-0 Contrato Civil por Prestación de Servicios &nbsp <strong> (Art. 1495 del Código Civil)</strong>, El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
 
     p.mb-4 Le corresponde a la organización definir la clase de contrato a ejecutar; el objetivo es que tanto el futuro empleado, como la organización, estén de acuerdo con el contrato a firmar; dicho contrato debe garantizar el cumplimiento de las obligaciones laborales legalmente establecidas, dependiendo de la clase de labor a realizar.
 

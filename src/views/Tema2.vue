@@ -85,13 +85,14 @@
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder5.svg', alt='Diagrama')
+              img(src='@/assets/curso/temas/tarjetas/1.svg', alt='Diagrama')
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
             h3.mb-5 Estructuras organizacionales horizontales
-            p.mb-4 Se caracterizan por anular prácticamente los niveles jerárquicos y las barreras entre los departamentos y adoptan un sistema de administración basado en procesos, entendiendo proceso como un conjunto de actividades interfuncionales necesarias para el desarrollo de un proyecto desde su inicio (generación de ideas) hasta su fin (obtención de resultados), con la colaboración de equipos interdisciplinarios de diferentes departamentos. En esta clase de estructura, se resalta el empoderamiento de los empleados, la descentralización de decisiones, la información compartida y la cultura de adaptación.
-            p.mb-4 Un claro ejemplo de este modelo de estructura se da cuando una organización establece proyectos que son liderados y ejecutados por empleados de todas las áreas de la organización (marketing, producción, finanzas, sistemas, etc.), logrando resultados innovadores y competitivos.
+            p Se caracterizan por anular prácticamente los niveles jerárquicos y las barreras entre los departamentos y adoptan un sistema de administración basado en procesos, entendiendo proceso como un conjunto de actividades interfuncionales necesarias para el desarrollo de un proyecto desde su inicio (generación de ideas) hasta su fin (obtención de resultados), con la colaboración de equipos interdisciplinarios de diferentes departamentos. En esta clase de estructura, se resalta el empoderamiento de los empleados, la descentralización de decisiones, la información compartida y la cultura de adaptación.
+            p Un claro ejemplo de este modelo de estructura se da cuando una organización establece proyectos que son liderados y ejecutados por empleados de todas las áreas de la organización (marketing, producción, finanzas, sistemas, etc.), logrando resultados innovadores y competitivos.
+
 
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
@@ -101,13 +102,14 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0
             h3.mb-5 Estructuras por redes o modulares
-            p.mb-4 Es una de las configuraciones más recientes en la forma de organizar el trabajo. Esta estructura es aplicada cuando una organización subcontrata varias de sus principales operaciones a otras compañías que se han especializado en dichas funciones y la coordinación de las actividades se realiza desde la sede principal de la compañía contratante, con el apoyo de las TIC.
-            p.mb-4 Muchas organizaciones se especializan en determinada área empresarial y deciden subcontratar compañías externas (expertas) para que se encarguen de las demás áreas. Un ejemplo de esta estructura es una empresa colombiana dedicada a la confección de artículos de cuero, donde su principal atributo es la calidad de sus productos; por lo tanto, decide subcontratar una compañía experta en marketing para que se encargue de esta área y también subcontrata a otra compañía para que lleve a cabo el proceso de la distribución física.
+            p Es una de las configuraciones más recientes en la forma de organizar el trabajo. Esta estructura es aplicada cuando una organización subcontrata varias de sus principales operaciones a otras compañías que se han especializado en dichas funciones y la coordinación de las actividades se realiza desde la sede principal de la compañía contratante, con el apoyo de las TIC.
+            p Muchas organizaciones se especializan en determinada área empresarial y deciden subcontratar compañías externas (expertas) para que se encarguen de las demás áreas. Un ejemplo de esta estructura es una empresa colombiana dedicada a la confección de artículos de cuero, donde su principal atributo es la calidad de sus productos; por lo tanto, decide subcontratar una compañía experta en marketing para que se encargue de esta área y también subcontrata a otra compañía para que lleve a cabo el proceso de la distribución física.
+
         
         .row.justify-content-center.align-items-center.my-lg-4            
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tarjetas/placeholder7.svg', alt='Diagrama')
+              img(src='@/assets/curso/temas/tarjetas/2.svg', alt='Diagrama')
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-12.mb-4.mb-md-0

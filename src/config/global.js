@@ -47,14 +47,6 @@ export default {
         numero: '2',
         titulo: 'Estructura organizacional',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Cultura organizacional',
-            hash: 't_2_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -62,50 +54,6 @@ export default {
         numero: '3',
         titulo: 'Identificación de las necesidades del talento humano',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Análisis de necesidades',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Instrumentos de recolección de información',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Descripción de cargos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Perfil laboral',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Funciones',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Reclutamiento y selección',
-            hash: 't_3_6',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.7',
-            titulo: 'Contratación',
-            hash: 't_3_7',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -191,7 +139,7 @@ export default {
         'conjunto de actividades relacionadas o agrupadas en un mismo campo de acción.',
     },
     {
-      termino: 'Clasificación de puestos:',
+      termino: 'Clasificación de puestos',
       significado:
         'son técnicas para analizar la naturaleza de los puestos para agruparlos en cargos, clases y estratos ocupacionales.',
     },

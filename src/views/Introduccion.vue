@@ -18,9 +18,9 @@
             p Apreciado aprendiz, bienvenido a este componente formativo, donde se estudiará el talento humano como el proceso para administrar las competencias y habilidades de las personas dentro de una organización, permitiéndoles crecer dentro de la misma y generar valor agregado a su trabajo, además de contribuir con el fortalecimiento y crecimiento de la institución.
             br
             br
-            p Toda empresa debe identificar y potenciar el talento de sus colaboradores para construir, con un ambiente laboral fuerte y competente, pero cabe resaltar que talento humano no se refiere a características fuera de lo común, sino a rasgos humanos. Por eso, el talento humano de una organización es muy importante porque, a partir de cada individuo, se construye la empresa y administra el talento humano adecuadamente, es indispensable para el éxito organizacional.
+            p Toda empresa debe identificar y potenciar el talento de sus colaboradores para construir, con un ambiente laboral fuerte y competente, pero cabe resaltar que talento humano no se refiere a características fuera de lo común, sino a rasgos humanos. Por eso, el talento humano de una organización es muy importante porque, a partir de cada individuo, se construye la empresa y administra el talento humano adecuadamente, lo que es indispensable para el éxito organizacional.
 
-    p.mb-4 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+    p.mb-4 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     figure
       .video

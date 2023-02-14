@@ -53,14 +53,16 @@
             .col-md-8
               h5 Gestión de personal
               p El recurso humano se convirtió en activo organizacional; a partir de entonces, nace la gestión de personal que considera a las personas socios estratégicos y no como recursos, porque son diferentes entre sí, son elementos vivos y son socios de la organización.
-          
-    .bloque-texto-f.pt-4.px-4.mb-4
-      .bloque-texto-f__comillas
-        i.fas.fa-quote-left
-        i.fas.fa-quote-right
-      h4.text-regular.bloque-texto-f__texto Es el conjunto de políticas y prácticas necesarias para dirigir los aspectos de los cargos gerenciales, relacionados con las personas o recursos, incluidos reclutamiento, selección, capacitación, recompensas y evaluación del desempeño
-      .bloque-texto-f__autor.mb-4
-        h3.mb-0(style="text-align:right") Aterrizando el concepto, la gestión del talento humano, según Chiavenato (2009) 
+
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10          
+        p.ps-5.ms-5 Para concretar, el concepto la gestión del talento humano, según Chiavenato (2009):          
+        .bloque-texto-f.pt-4.px-4.mb-4
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          p.text-regular.bloque-texto-f__texto “Es el conjunto de políticas y prácticas necesarias para dirigir los aspectos de los cargos gerenciales, relacionados con las personas o recursos, incluidos reclutamiento, selección, capacitación, recompensas y evaluación del desempeño”.
+
     
     p.mb-4 Además, para desarrollar un proceso de gestión del talento humano estructurado y organizado, es necesario considerar diversas fases o procesos a través de los cuales se establecen las acciones correspondientes. A continuación, se presentan algunas de estas:
 
@@ -123,7 +125,7 @@
         p.text-center.mb-4(style=" margin-top: -15px;") Evaluación del desempeño
         br
         h5.text-center.mb-4(style=" margin-top: 10px;") Acción
-        p.text-center.mb-4(style=" margin-top: -15px;") Capacitación y planes de mejoramiento
+        p.text-center.mb-4(style=" margin-top: -15px;") Capacitación y planes de mejoramiento.
       
       .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
@@ -135,7 +137,7 @@
         p.text-center.mb-4(style=" margin-top: -15px;") Desarrollo organizacional.
         br
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
-        p.text-center.mb-4(style=" margin-top: -15px;") Higiene, seguridad, bienestar y calidad de vida - relaciones sindicales
+        p.text-center.mb-4(style=" margin-top: -15px;") Higiene, seguridad, bienestar y calidad de vida - relaciones sindicales.
 
     p.md-5.mt-4 A su vez, la gestión del talento humano posee unas características dentro de las organizaciones. Lo invitamos a conocer cada una de ellas: 
     
