@@ -393,7 +393,7 @@
 
     figure.mb-5
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iktzdYZiaW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     p.mb-4 Una vez finalizada la etapa de reclutamiento, se procede a continuar con el proceso de seleccionar la mejor opción, es decir, los perfiles que cumplan con las condiciones solicitadas para ocupar el cargo. Esta etapa opera como un filtro, se ejecuta por medio de actividades que permiten la selección de los candidatos más adecuados y que han logrado cumplir inicialmente con los requisitos básicos y que, a medida que el proceso avanza, han demostrado ser la mejor opción para la empresa teniendo en cuenta su formación, experiencia, habilidades y competencias.       
 
