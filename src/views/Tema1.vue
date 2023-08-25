@@ -195,26 +195,26 @@
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img3.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Atraer<br>empleados")
+        TabsC.color-acento-contenido.mb-4
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Atraer empleados")
               .row
-                .col-md-8.p-4.color-fondo
+                .col-md-12.p-4.color-fondo
                   p Permite captar candidatos calificados o que puedan adquirir las competencias necesarias, según el cargo a desempeñar y los objetivos empresariales.
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Retener y motivar <br>empleados")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Retener y motivar empleados")
               .row
                 .col-md-12.p-4.color-fondo
                   p Brinda colaboradores calificados, satisfechos y fieles a la empresa, identificados y comprometidos con la posibilidad de crecer profesionalmente.   
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Evaluar el<br>desempeño de <br>los empleados")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Evaluar el desempeño de los empleados")
               .row
                 .col-md-12.p-4.color-fondo
                   p Permite tomar medidas para identificar su contribución e importancia para la empresa.
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Mejorar la<br> productividad")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Mejorar la productividad")
               .row
                 .col-md-12.p-4.color-fondo
                   p Con entrenamiento y motivación, se mejora la competitividad y la empresa puede alcanzar los objetivos planteados.
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Generar buen<br>clima laboral")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Generar buen clima laboral")
               .row
                 .col-md-12.p-4.color-fondo
                   p Se establecen políticas que generen buena conducta entre los empleados, se preocupan por su bienestar, mejoran el lugar y horarios de trabajo, reconocen y valoran los logros, fomentan actividades recreativas fuera del trabajo, entre otros.
