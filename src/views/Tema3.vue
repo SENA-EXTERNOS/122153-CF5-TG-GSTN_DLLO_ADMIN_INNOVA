@@ -99,7 +99,7 @@
     p.mb-4 Para lograr la identificación de las necesidades de talento humano en las organizaciones, el área encargada puede aplicar los siguientes instrumentos.
 
     .tarjeta--container.row.mb-4
-      .col-md.tarjeta.color-fondo-terciario.p-5
+      .col-lg.tarjeta.color-fondo-terciario.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -108,7 +108,7 @@
         h2.text-center(style="color: black") Entrevista
         p(style="color: black") Es un método de recolección de información de manera directa. Existen dos tipos de entrevista, estructurada y no estructurada, y para efectos de identificación de necesidades de personal, se puede aplicar la entrevista no estructurada.
       
-      .col-md.tarjeta.color-secundario.p-5(style="background-color: #EAF086 !important")
+      .col-lg.tarjeta.color-secundario.p-5(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -117,7 +117,7 @@
         h2.text-center Observación
         p Consiste en observar a los empleados en su entorno natural, es decir, en el desarrollo de sus funciones diarias, identificar que la cantidad de funciones que ejecuta o debe desempeñar, son las apropiadas y tener en cuenta el tiempo destinado para ellas, o si, por el contrario, no está alcanzando a cumplir con las tareas impuestas. 
       
-      .col-md.tarjeta.color-fondo-terciario.p-5
+      .col-lg.tarjeta.color-fondo-terciario.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -170,7 +170,7 @@
     p.mb-4 Todo perfil laboral debe contener las siguientes características:
 
     SlyderF.row.mb-5.slyder-g(columnas="col-lg-6 col-xl-4")
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
@@ -180,7 +180,7 @@
         p.text-center.mb-4 Nombre del cargo, dependencia a la cual pertenece. 
         
 
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
@@ -190,7 +190,7 @@
         p.text-center.mb-4 Ubicación dentro de la organización, identificando a quién(es) deberá reportar sus resultados y quién(es) deberá(n) reportarle a él.
        
 
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
@@ -452,22 +452,22 @@
             ol.lista-ol
               li 
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato a Término Fijo &nbsp <strong> (Art. 46 del C.S.T.)</strong>
+                p.mb-0 Contrato a Término Fijo <strong> (Art. 46 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato a Término Indefinido &nbsp <strong> (Art. 47 del C.S.T.)</strong>
+                p.mb-0 Contrato a Término Indefinido <strong> (Art. 47 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato de Obra o Labor &nbsp<strong>(Art. 45 del C.S.T.)</strong>
+                p.mb-0 Contrato de Obra o Labor <strong>(Art. 45 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato de Aprendizaje &nbsp <strong>(Art. 30 de la Ley 789 de 2002)</strong>
+                p.mb-0 Contrato de Aprendizaje <strong>(Art. 30 de la Ley 789 de 2002)</strong>
               li  
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato Temporal, Ocasional o Accidental &nbsp <strong>(Art. 6 del C.S.T.)</strong>
+                p.mb-0 Contrato Temporal, Ocasional o Accidental <strong>(Art. 6 del C.S.T.)</strong>
               li 
                 span.fas.fa-check(style='color: #f85316')
-                p.mb-0 Contrato Civil por Prestación de Servicios &nbsp <strong> (Art. 1495 del Código Civil)</strong>, El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
+                p.mb-0 Contrato Civil por Prestación de Servicios <strong>(Art. 1495 del Código Civil)</strong>, El contrato de prestación de servicios puede recaer en un contrato laboral y por esto su anunciamiento.
 
     p.mb-4 Le corresponde a la organización definir la clase de contrato a ejecutar; el objetivo es que tanto el futuro empleado, como la organización, estén de acuerdo con el contrato a firmar; dicho contrato debe garantizar el cumplimiento de las obligaciones laborales legalmente establecidas, dependiendo de la clase de labor a realizar.
 

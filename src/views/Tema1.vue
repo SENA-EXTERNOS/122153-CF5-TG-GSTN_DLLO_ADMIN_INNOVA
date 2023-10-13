@@ -67,73 +67,73 @@
     p.mb-4 Además, para desarrollar un proceso de gestión del talento humano estructurado y organizado, es necesario considerar diversas fases o procesos a través de los cuales se establecen las acciones correspondientes. A continuación, se presentan algunas de estas:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none;")
               img(src='@/assets/curso/temas/tarjetas/avatar1.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
         p.text-center.mb-4(style=" margin-top: -15px;") Análisis y descripción de cargos.
         br
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Diseño de cargos.
 
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar2.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
         p.text-center.mb-4(style=" margin-top: -15px;") Reclutamiento y selección del personal.
         br
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Contratación de candidatos seleccionados.
 
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
         p.text-center.mb-4(style=" margin-top: -15px;") Inducción a nuevos empleados.
         br
         h5.text-center.mb-4(style=" margin-top: 10px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Administración de cargos y salarios.
       
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
         p.text-center.mb-4(style=" margin-top: -15px;") Incentivos salariales y beneficios sociales.
         br
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Comunicación y desarrollo personal.
       
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar5.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
-        p.text-center.mb-4(style=" margin-top: -15px;") Evaluación del desempeño
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
+        p.text-center.mb-4(style=" margin-top: -15px;") Evaluación del desempeño.
         br
         h5.text-center.mb-4(style=" margin-top: 10px;") Acción
         p.text-center.mb-4(style=" margin-top: -15px;") Capacitación y planes de mejoramiento.
       
-      .tarjeta.carrusel2.p-4(style="background-color: #EAF086 !important")
+      .tarjeta.carrusel2.h-100.p-4(style="background-color: #EAF086 !important")
         .row.justify-content-center.mb-3
           .bloque-texto-f2__avatar
             .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
               img(src='@/assets/curso/temas/tarjetas/avatar6.svg', alt='Texto que describa la imagen')
         
-        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso.
+        h5.text-center.mb-4(style=" margin-top: -15px;") Fase o proceso
         p.text-center.mb-4(style=" margin-top: -15px;") Desarrollo organizacional.
         br
         h5.text-center.mb-4(style=" margin-top: -15px;") Acción
@@ -142,47 +142,47 @@
     p.md-5.mt-4 A su vez, la gestión del talento humano posee unas características dentro de las organizaciones. Lo invitamos a conocer cada una de ellas: 
     
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar7.svg' alt='dibujo relacionado')
         p.text-center Se compromete con el cuidado de la salud física del personal a cargo.  
 
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar8.svg' alt='dibujo relacionado')    
         p.text-center Se preocupa por la salud mental de empleados, con psicólogos que tratan temas como el manejo de ansiedad, el estrés y la familia.  
 
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar9.svg' alt='dibujo relacionado')
         p.text-center Afianza la comunicación con empleados, para evitar inconsistencias en información y apoya el intercambio de opiniones.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar10.svg' alt='dibujo relacionado')
         p.text-center Anima a empleados a seguir su proceso de formación, promueve la capacitación y el desarrollo de empleados.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar11.svg' alt='dibujo relacionado')
         p.text-center Gestiona la productividad con recomendaciones para trabajar eficientemente, acondiciona espacios y recursos tecnológicos.  
 
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar12.svg' alt='dibujo relacionado')
         p.text-center Crea nuevos esquemas de trabajo, trabajos en grupo, fortalece espacios para empleados, fomenta reuniones virtuales, etc.
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar13.svg' alt='dibujo relacionado')
         p.text-center Implementa actividades de bienestar (actividades online, clases variadas, rutinas de ejercicios, obras de teatro, eventos públicos, etc.).
-      .tarjeta.color-acento-contenido.p-4(style='height:350px')
+      .tarjeta.color-acento-contenido.h-100.p-4
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar14.svg' alt='dibujo relacionado')
@@ -219,10 +219,10 @@
                 .col-md-12.p-4.color-fondo
                   p Se establecen políticas que generen buena conducta entre los empleados, se preocupan por su bienestar, mejoran el lugar y horarios de trabajo, reconocen y valoran los logros, fomentan actividades recreativas fuera del trabajo, entre otros.
     
-    p.mb-4 Y, finalmente, se respalda todo el proceso en un el marco legal, el cual se expone en orden cronológico:
+    p.mb-4 Y, finalmente, se respalda todo el proceso en el marco legal, el cual se expone en orden cronológico:
 
     .row.justify-content-center.mb-4
-      .col-md-7
+      .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Código Sustantivo del Trabajo")
             .col-md-12.mb-4.mb-md-0
@@ -230,7 +230,7 @@
         
           .row(titulo="Sistema de Seguridad Social Integral")
             .col-md-12.mb-4.mb-md-0
-              p Ley 100 de 1993, garantiza derechos de comunidad y persona a tener calidad de vida acorde con la dignidad humana. Incluye sistema general de pensiones, de salud, de riesgos profesionales y servicios sociales complementarios. 
+              p Ley 100 de 1993, garantiza los derechos de la comunidad y la persona, para tener calidad de vida acorde con la dignidad humana. Incluye sistema general de pensiones, de salud, de riesgos profesionales y servicios sociales complementarios. 
 
           .row(titulo="Código General Disciplinario")
             .col-md-12.mb-4.mb-md-0
@@ -243,7 +243,7 @@
           .row(titulo="Ley de Pasantías")
             .col-md-12.mb-4.mb-md-0
               p Ley 2043 del 2020, incentiva contratar jóvenes recién graduados de carrera profesional, técnica o tecnológica y pasantías, judicaturas o prácticas formativas que son obligatoriamente reconocidas como experiencia laboral.
-      .col-md-5
+      .col-lg-5.col-10
         img(src='@/assets/curso/temas/texto_destacado/img4.png', alt='imagen relacionada')  
 
           

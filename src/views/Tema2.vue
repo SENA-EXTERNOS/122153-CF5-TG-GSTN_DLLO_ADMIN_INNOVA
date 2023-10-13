@@ -26,37 +26,37 @@
     p.mb-4 Ahora, teniendo en cuenta las valoraciones de Bernal Torres y Sierra Arango (2017), se considera que existen determinados factores que afectan a la estructura organizacional; a continuación, se enuncian algunos de estos.
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar15.svg' alt='dibujo relacionado')
         p.text-center Las estrategias que se definan en la planeación para el logro de los objetivos (la estructura debe adecuarse a la estrategia).
 
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar16.svg' alt='dibujo relacionado')    
         p.text-center El tamaño de la propia organización, porque, a diferentes tamaños, la empresa puede requerir distintas estructuras.  
 
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar17.svg' alt='dibujo relacionado')
         p.text-center La disponibilidad y el uso de las TIC (el grado de automatización y virtualización de los procesos), que afectan la estructura.
 
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar18.svg' alt='dibujo relacionado')
         p.text-center Los cambios del entorno industrial o sectorial, en el entorno nacional o internacional.
 
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar19.svg' alt='dibujo relacionado')
         p.text-center Los mercados que atiende la organización y el tipo de actividades que realiza.  
 
-      .tarjeta.color-fondo.p-4(style='background-color: #ACD382!important ; height:350px')
+      .tarjeta.color-fondo.h-100.p-4(style='background-color: #ACD382!important ;')
         .row.justify-content-center.mb-3
           .col-7.mb-3
             img(data-aos="zoom-out-down" src='@/assets/curso/temas/tarjetas/avatar20.svg' alt='dibujo relacionado')

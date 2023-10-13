@@ -181,12 +181,12 @@ export default {
     {
       termino: 'Pruebas de selección',
       significado:
-        'actividades que se deben aplicar durante el proceso de selección, permiten filtran y seleccionar la mejor opción.',
+        'actividades que se deben aplicar durante el proceso de selección, permiten filtrar y seleccionar la mejor opción.',
     },
     {
       termino: 'Supervisión',
       significado:
-        'acción de vigilar, monitorear y ayudar al cumplimiento de la tareas o actividades asignadas a un grupo de trabajo. ',
+        'acción de vigilar, monitorear y ayudar al cumplimiento de las tareas o actividades asignadas a un grupo de trabajo. ',
     },
   ],
   referencias: [
